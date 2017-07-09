@@ -11,13 +11,14 @@ __ autoencoder_post_
 __ autoencoder_post_wiki_
 
 
-
-
-
-
 --------
-Training
+Training and Testing
 --------
 
-**Train:**
+The code train an autoencoder and then test it at the end. You just need to run the main code:
+
+
+.. code-block:: bash
+
+   python ./autoencoder.py
 
